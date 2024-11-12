@@ -22,4 +22,4 @@ python "ammortization_script.py"
 After running the command to execute the script, the periodic, daily, and monthly amortization tables for each LoanTape in the sample dataset will be stored in the `individual amortization tables` directory. The consolidated daily and monthly amortization tables will be stored in `Consolidated Tables.xlsx` in the home directory itself.
 
 
-This formatting ensures proper use of headings, code blocks, and bold text. You can copy and paste this directly into your README file.
+
